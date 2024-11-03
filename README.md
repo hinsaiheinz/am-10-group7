@@ -1,1 +1,15 @@
 # am-10-group7
+
+1. What is your topic?
+The topic of this analysis is to investigate the factors that influence student performance. By examining various demographic and personal attributes (such as socioeconomic status, parental involvement, study habits, and attendance), we aim to understand how these factors contribute to academic outcomes. The goal is to identify which factors are most significant in predicting student success and to explore any patterns or disparities in performance across different groups.
+
+2. What issues or questions are you addressing?
+This project addresses several critical questions: What are the key factors that correlate with higher or lower academic performance among students? Are there disparities in performance based on demographic factors such as socioeconomic status, gender, or parental involvement? How do study habits and attendance influence academic outcomes? Additionally, the analysis will explore if there are any combined effects where certain groups (e.g., those with lower socioeconomic status and low parental involvement) are particularly at risk of lower performance. Understanding these factors could inform strategies to support students who may be at an academic disadvantage.
+
+3. What is the source of the data you will be using?
+The primary source of data for this analysis is the "StudentPerformanceFactors.csv" dataset available on kaggle, which appears to contain information on various demographic and personal characteristics of students, along with indicators of their academic performance. This dataset may include variables such as socioeconomic status, attendance, parental involvement, study habits, and academic scores or grades. By analyzing this dataset, we can gain insights into how each factor contributes to student success and identify areas for potential intervention.
+
+4. What statistical techniques do you think you may be using?
+The analysis will utilize several statistical techniques to address the research questions. Descriptive statistics will provide an overview of the dataset, summarizing variables such as average scores, attendance rates, and other key metrics across demographic groups. Correlation analysis will help determine the relationships between performance and individual factors, such as study habits and parental involvement. Regression analysis will be used to model the influence of multiple factors on academic performance, allowing us to quantify the impact of each predictor. Cluster analysis may also be applied to group students with similar profiles, helping to identify patterns among high- and low-performing groups. Finally, ANOVA (Analysis of Variance) could be used to test for significant differences in performance across categorical factors like gender or socioeconomic status.
+
+This approach will offer a comprehensive view of the factors affecting student performance, highlighting areas where targeted support or intervention may be beneficial for improving educational outcomes.
